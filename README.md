@@ -6,9 +6,6 @@ A simple quiz app built with Next.js.
 - [Description](#description)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Description
 This project is a basic quiz app developed using Next.js. It includes features such as a welcome screen, question display area, options or answers section, a next question button, and a results screen. The app allows users to continue their quiz from where they left off even after refreshing the page.
